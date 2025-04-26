@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://hashnode.com/@Dhivakar03](https://hashnode.com/@Dhivakar03)
 
-- 💬 Ask me about **Selenium, TestNG, Data Analyst, Looker, BigQuery, Data Visualization,CSS, HTML React js**
+- 💬 Ask me about **Selenium, TestNG, Data Analyst, Looker, BigQuery, Data Visualization, CSS, HTML, React js**
 
 - 📫 How to reach me **b.e.dhivakar@gmail.com**
 
