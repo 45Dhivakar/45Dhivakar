@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm DHIVAKAR B</h1>
 <h3 align="center">A passionate Automation Tester form Chennai</h3>
 
-- 🔭 I’m currently Finishin on [SpiceJet](https://github.com/45Dhivakar/AT-SpiceJet-Capstone-project.git) [BestBuy](https://github.com/45Dhivakar/AT-BestBuyTest) [Admavin-Task](https://github.com/45Dhivakar/Admavin-Tasks) Develope The Clone WebSite UI [Myntra] (https://github.com/45Dhivakar/Myntra) [TripAdvisor] (https://github.com/45Dhivakar/TripAdvisor)
+- 🔭 I’m currently Finishin on [SpiceJet](https://github.com/45Dhivakar/AT-SpiceJet-Capstone-project.git) [BestBuy](https://github.com/45Dhivakar/AT-BestBuyTest) [Admavin-Task](https://github.com/45Dhivakar/Admavin-Tasks)
+  
+- Develope The Clone WebSite UI [Myntra](https://github.com/45Dhivakar/Myntra) [TripAdvisor](https://github.com/45Dhivakar/TripAdvisor)
 
 - 🌱 I’m currently learning **Frame work , Cloud Data Analyst**
 
